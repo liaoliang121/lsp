@@ -1,0 +1,7 @@
+class LSPServer:
+    def __init__(self, config):
+        self.config = config
+
+    def start(self):
+        print('LSP Server starting...')
+# Update at 2024-08-31T18:32:39
